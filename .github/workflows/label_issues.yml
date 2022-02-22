@@ -50,7 +50,7 @@ jobs:
     name: Auto card labeler
     runs-on: ubuntu-latest
     steps:
-      - uses: isabellarojas/auto-label-card@v2
+      - uses: technote-space/auto-card-labeler@v2
   
   add_done_labels:
     name: Adding labels to Done Column 
