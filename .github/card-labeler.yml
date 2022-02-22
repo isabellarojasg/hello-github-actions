@@ -1,9 +1,6 @@
 Project name1:
-  Column 'To do':
+  Column name1:
     - 'Status: test1'
-  Column 'In progress':
+  Column name2:
     - 'Status: test2-1'
     - 'Status: test2-2'
-Project 'Done':
-  Column name3:
-    - 'Status: test1'
